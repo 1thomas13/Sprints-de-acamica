@@ -1,0 +1,12 @@
+let condicionUno = (1 == "1");
+console.log (condicionUno);
+let condicionDos = (1 === "1");
+console.log (condicionDos);
+let condicionTres = (0 || 1);
+console.log (condicionTres);
+let condicionCuatro = (true && 1);
+console.log (condicionCuatro);
+let condicionCinco = (1-1) && (2+2);
+console.log (condicionCinco);
+let condicionSeis = (1-1) || (2+2);
+console.log (condicionSeis);
