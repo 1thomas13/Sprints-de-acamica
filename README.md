@@ -1,3 +1,3 @@
 # sprint-1
 
-Practicas de desafios del sprint 1 de Acamica
+Practicas de las clases de Desarrollo Web Back End de Acamica
