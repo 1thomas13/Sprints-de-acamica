@@ -24,5 +24,5 @@ usuarios.find({nombre:"Juan"}).then(function (resultados){
     });
 
 app.listen(3000,()=>{
-    console.log("Puerto 27017 corriendo")
+    console.log("Puerto 3000 corriendo")
 })
