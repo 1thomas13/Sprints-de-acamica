@@ -1,6 +1,6 @@
 const express = require('express')
 const app = express()
-const port = process.env.PORT_ENV || 3000
+const port = 3000
 
 let count=0
 app.get('/contador', (req, res) => {
